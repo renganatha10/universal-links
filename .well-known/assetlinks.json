@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.simplygreet",
+      "sha256_cert_fingerprints": [
+        "86:2D:4A:F9:21:7C:90:15:6B:A0:E2:93:CC:EC:D1:F1:F6:34:3F:F1:21:D7:14:79:65:17:B5:34:79:32:41:FB"
+      ]
+    }
+  }
+]
